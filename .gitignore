@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+server/.git-server-backup/
+
+# Build output
+dist/
+client/dist/
+server/dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+!.env.sample
+client/.env
+server/.env
+client/.env.*
+server/.env.*
+!server/.env.sample
+
+# Logs and local caches
+*.log
+logs/
+coverage/
+.cache/
+
+# Editor and operating-system files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.swp
