@@ -2,6 +2,30 @@
 
 ShopNest is a full-stack e-commerce application with a React/Vite frontend and a Node.js/Express backend. It supports customer authentication, product browsing, cart management, checkout, order tracking, and an administrator dashboard.
 
+## Screenshots
+
+### User interface
+
+<img width="1812" height="930" alt="Screenshot 2026-11-26 002103" src="https://github.com/user-attachments/assets/2030ae39-dcfb-4933-8e1c-16bd8470bbb5" />
+
+<img width="1792" height="952" alt="Screenshot 2026-11-26 001853" src="https://github.com/user-attachments/assets/56cd2df2-8dd5-48c7-9157-5de53f0f6e3f" />
+
+<img width="1785" height="927" alt="Screenshot 2026-11-26 001929" src="https://github.com/user-attachments/assets/0ba7c037-d068-4da6-b9a6-539d17255968" />
+
+<img width="1783" height="930" alt="Screenshot 2026-11-26 002042" src="https://github.com/user-attachments/assets/d2a3e209-327c-4668-ac43-6f5ef3efb416" />
+
+### Admin interface
+
+<img width="1497" height="943" alt="Screenshot 2026-11-26 001748" src="https://github.com/user-attachments/assets/b04e2fcc-ca7f-4821-a0e0-6a1d3aca571f" />
+
+<img width="1486" height="907" alt="Screenshot 2026-11-26 001804" src="https://github.com/user-attachments/assets/88816e00-5b6c-49a3-a278-0a0d94edcffd" />
+
+<img width="1412" height="845" alt="Screenshot 2026-11-26 001815" src="https://github.com/user-attachments/assets/c0be603f-3af9-43ea-9f02-9ca9e6bd461f" />
+
+<img width="1790" height="955" alt="Screenshot 2026-11-26 001837" src="https://github.com/user-attachments/assets/dd3defb5-a760-4f4b-868b-183e7dca01a6" />
+
+
+
 ## Tech stack
 
 ### Frontend
